@@ -67,3 +67,8 @@ Unlike other boosting algorithms where weights of misclassified branches are inc
 
 ## Results
 
+The model was evaluated using : r2_score : 0.6819591771492336
+
+The performance of the model :
+![hrsgsr](https://user-images.githubusercontent.com/105455186/176745090-e3c75d06-ee0e-492b-988d-a6b7c2dac0ae.png)
+
