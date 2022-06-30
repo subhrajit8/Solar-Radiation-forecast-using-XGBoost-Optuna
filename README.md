@@ -55,7 +55,7 @@ XGBoost falls under the category of Boosting techniques in Ensemble Learning. En
 
 Unlike other boosting algorithms where weights of misclassified branches are increased, in Gradient Boosted algorithms the loss function is optimised. XGBoost is an advanced implementation of gradient boosting along with some regularization factors.
 
-
+![Flow-chart-of-XGBoost](https://user-images.githubusercontent.com/105455186/176742631-1009cf5a-0459-4671-9d7b-c6a34296a641.png)
 ## Refrences
 
  - [XGBoost](https://xgboost.readthedocs.io/en/stable/)
